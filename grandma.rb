@@ -1,3 +1,4 @@
-phrase = "I LOVE YOU GRANDMA"
+phrase = "I LOVE YOU GRANDMA!"
 
-if phrase =
+if phrase = "I LOVE YOU GRANDMA!"
+  puts
