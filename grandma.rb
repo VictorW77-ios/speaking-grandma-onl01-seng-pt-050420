@@ -2,4 +2,6 @@ phrase = "I LOVE YOU GRANDMA!"
 
 if phrase = "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-if phrase.downcase
+elsif phrase.downcase
+  puts "HUH?! SPEAK UP, SONNY!"
+else 
