@@ -6,5 +6,3 @@ else
   puts "NO, NOT SINCE 1938!"
 end
 end
-
-speak_to_grandma
